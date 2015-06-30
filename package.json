@@ -1,6 +1,6 @@
 {
   "name": "resmio-style",
-  "version": "2.0.0",
+  "version": "2.0.11111111111",
   "description": "Airbnb approach to JavaScript with a resmio touch.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
