@@ -1,28 +1,28 @@
 {
-  "name": "airbnb-style",
+  "name": "resmio-style",
   "version": "2.0.0",
-  "description": "A mostly reasonable approach to JavaScript.",
+  "description": "Airbnb approach to JavaScript with a resmio touch.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-all": "npm publish && cd ./packages/eslint-config-airbnb && npm publish"
+    "publish-all": "npm publish && cd ./packages/eslint-config-resmio && npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/resmio/javascript.git"
   },
   "keywords": [
     "style guide",
     "lint",
-    "airbnb",
+    "resmio",
     "es6",
     "es2015",
     "react",
     "jsx"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "Jose Menor <josemenor@gmail.com> (https://twitter.com/menor)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/resmio/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/resmio/javascript"
 }
