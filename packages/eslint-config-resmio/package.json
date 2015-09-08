@@ -4,7 +4,8 @@
   "description": "resmio's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "./node_modules/.bin/eslint .",
+    "test": "./node_modules/.bin/babel-tape-runner ./test/test-*.js"
   },
   "repository": {
     "type": "git",
@@ -26,9 +27,9 @@
   "homepage": "https://github.com/resmio/javascript",
   "dependencies": {
     "resmio-style": "2.0.0",
-    "babel-eslint": "3.1.7",
-    "eslint": "0.21.2",
-    "eslint-plugin-react": "2.3.0",
+    "babel-eslint": "4.0.10",
+    "eslint": "1.1.0",
+    "eslint-plugin-react": "3.2.3",
     "resolve": "1.1.6",
     "strip-json-comments": "1.0.2"
   }
