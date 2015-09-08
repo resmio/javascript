@@ -26,10 +26,11 @@
   },
   "homepage": "https://github.com/resmio/javascript",
   "dependencies": {
-    "resmio-style": "2.0.0",
     "babel-eslint": "4.0.10",
     "eslint": "1.1.0",
     "eslint-plugin-react": "3.2.3",
+    "react": "^0.13.3",
+    "resmio-style": "2.0.0",
     "resolve": "1.1.6",
     "strip-json-comments": "1.0.2"
   }
