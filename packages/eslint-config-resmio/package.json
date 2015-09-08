@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-resmio",
-  "version": "0.0.61",
+  "version": "0.0.62",
   "description": "resmio's ESLint config, following our styleguide",
   "main": "index.js",
   "scripts": {
